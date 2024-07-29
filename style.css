@@ -1,0 +1,60 @@
+.heading {
+    text-align: center;
+    padding: 40px;
+    margin: 10px 10px 30px 10px;
+    background-color: rgb(213, 212, 212);
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.heading:hover {
+
+    background-color: burlywood;
+    transition-duration: 1s;
+    text-align: center;
+    padding: 50px;
+    border-radius: 10px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.sub_heading {
+    font-size: 20px;
+    color: pink;
+}
+
+.button {
+    display: block;
+    color: black;
+    background-color: beige;
+    cursor: pointer;
+}
+
+.button:hover {
+    color: rgba(133, 95, 160, 0.782);
+    border-radius: 5px;
+    transition-duration: 1s;
+}
+
+.blog {
+    text-align: center;
+    background-color: rgb(213, 212, 212);
+    padding: 20px;
+}
+
+.blog:hover {
+    background-color: burlywood;
+    padding: 30px;
+    transition-duration: 1s;
+
+}
+
+a {
+    color: blanchedalmond;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+    transition-duration: 1s;
+}
